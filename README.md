@@ -64,17 +64,17 @@ The laptop market is diverse, with thousands of models offering different specif
 
 ## Project Insights
 
--How many laptops have touchscreen vs non‑touchscreen?
+ -How many laptops have touchscreen vs non‑touchscreen?
 
-- Top 10 CPU by Frequency  laptops distributed ?
-- 
--What is the distribution of laptops by operating system?
+ - Top 10 CPU by Frequency  laptops distributed ?
+  
+ -What is the distribution of laptops by operating system?
 
--How does the average laptop price vary across different screen resolutions?
+ -How does the average laptop price vary across different screen resolutions?
 
-- How does the average laptop price vary by RAM size?
-- 
--How many laptops of each GPU company are available at different screen heights?
+ - How does the average laptop price vary by RAM size?
+  
+ -How many laptops of each GPU company are available at different screen heights?
 
 -For each company, how are laptops distributed across different operating systems?
 
